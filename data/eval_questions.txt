@@ -1,0 +1,20 @@
+What is the primary objective of MIND2WEB?
+How many tasks were collected in MIND2WEB, and from how many websites?
+What are the three necessary ingredients provided by MIND2WEB for building generalist web agents?
+How does MIND2WEB differ from existing datasets for web agents?
+What are the desiderata for a generalist agent for the web according to the paper?
+What challenges are associated with building an agent for the web, as discussed in the paper?
+What is MINDACT, and how does it address the challenges of using large language models (LLMs) for web agents?
+What are the key features of the MIND2WEB dataset?
+How does the data collection process for MIND2WEB differ from existing datasets?
+What are the unique research challenges presented by MIND2WEB for developing generalist agents for the web?
+What is the approach used for task demonstration in MIND2WEB?
+How many tasks were verified and retained in MIND2WEB after the data collection process?
+How does MIND2WEB compare to existing datasets in terms of domains covered, environments, and task information?
+What are the objectives of MINDACT, and how does it leverage the data from MIND2WEB?
+What are the two stages of the MINDACT framework, and what is the role of each stage?
+How does MINDACT generate candidate elements for action prediction?
+What is the role of small language models (LMs) in the MINDACT framework?
+How does MINDACT utilize large language models (LLMs) for action prediction?
+What are the main results reported for MINDACT in terms of element accuracy and operation F1 score?
+How does MINDACT perform in cross-task and cross-website settings compared to the classification and generation baselines?

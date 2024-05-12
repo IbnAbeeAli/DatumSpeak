@@ -72,11 +72,11 @@ def get_prebuilt_trulens_recorder(query_engine, app_id):
         )
     return tru_recorder
 
-from llama_index import ServiceContext, VectorStoreIndex, StorageContext
-from llama_index.node_parser import SentenceWindowNodeParser
-from llama_index.indices.postprocessor import MetadataReplacementPostProcessor
-from llama_index.indices.postprocessor import SentenceTransformerRerank
-from llama_index import load_index_from_storage
+from llama_index.core import ServiceContext, VectorStoreIndex, StorageContext
+from llama_index.core.node_parser import SentenceWindowNodeParser
+from llama_index.core.indices.postprocessor import MetadataReplacementPostProcessor
+from llama_index.core.indices.postprocessor import SentenceTransformerRerank
+from llama_index.core import load_index_from_storage
 import os
 
 
